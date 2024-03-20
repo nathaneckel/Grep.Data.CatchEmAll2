@@ -1,1 +1,5 @@
 put pokemon in this directory
+
+# 1. WHAT is pokemon?
+# 2. HOW do I find the list of what the names SHOULD be?
+# 3. HOW do I then perform this grep thing?
